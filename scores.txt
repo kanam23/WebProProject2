@@ -1,3 +1,4 @@
 khairul123,10
-kaa,10
-laosdka,10
+kaa,8
+laosdka,6
+k3,10
